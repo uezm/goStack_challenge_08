@@ -1,5 +1,5 @@
 <h2 align="center">
-  Desafio 07: GoMarketplace App :flying_saucer:
+  Desafio 08: GoMarketplace App :vibration_mode:
 </h2>
 
 <p align="center">
